@@ -1,4 +1,4 @@
 - Hi, I’m Henrique Hott.
-- Unity programmer.
-- Studying computer science at ufsj.
+- C# and Unity programmer.
+- Studying computer science at UFSJ.
 - Please email coder.henriquehott@gmail.com if you need to contact me.
